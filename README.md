@@ -1,22 +1,3 @@
-![](blog/images/claude-code-router-img.png)
-
-[![](https://img.shields.io/badge/%F0%9F%87%A8%F0%9F%87%B3-%E4%B8%AD%E6%96%87%E7%89%88-ff0000?style=flat)](README_zh.md)
-[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?&logo=discord&logoColor=white)](https://discord.gg/rdftVMaUcS)
-[![](https://img.shields.io/github/license/musistudio/claude-code-router)](https://github.com/musistudio/claude-code-router/blob/main/LICENSE)
-
-<hr>
-
-![](blog/images/sponsors/glm-en.jpg)
-> This project is sponsored by Z.ai, supporting us with their GLM CODING PLAN.    
-> GLM CODING PLAN is a subscription service designed for AI coding, starting at just $3/month. It provides access to their flagship GLM-4.6 model across 10+ popular AI coding tools (Claude Code, Cline, Roo Code, etc.), offering developers top-tier, fast, and stable coding experiences.     
-> Get 10% OFF GLM CODING PLAN：https://z.ai/subscribe?ic=8JVLJQFSKB     
-
-> A powerful tool to route Claude Code requests to different models and customize any request.
-
-> [GLM-4.6 Supports Reasoning and Interleaved Thinking](blog/en/glm-4.6-supports-reasoning.md)
-
-![](blog/images/claude-code.png)
-
 ## ✨ Features
 
 - **Model Routing**: Route requests to different models based on your needs (e.g., background tasks, thinking, long context).
